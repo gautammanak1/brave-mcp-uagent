@@ -15,3 +15,6 @@ The uAgent, built with the uAgents framework, serves as an autonomous client tha
 
 **Local Search**: Find local businesses with details like addresses, ratings, and hours, with fallback to web search.
 
+[Check out the Agent Profile on Agentverse](https://agentverse.ai/agents/details/agent1qgfnnx5nwxspd55e3zjwtra2gegdt77edf254k47tkcl0nc9dv2zvj6jjhj/profile)
+
+and try agent on chat with agent button 
